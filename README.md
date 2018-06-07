@@ -1,13 +1,13 @@
 # android_vendor_ZTE_Blade_A476
-Vendor repository for ZTE Blade A476 CM12.1 mt6735p
+Vendor repository for ZTE Blade A476 CM12.1 mt6735m
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-CPU     | 1.0 GHz Quad-Core MT6735p
+CPU     | 1.0GHz Quad-Core MT6735M
 GPU     | Mali-T720
-Memory  | 2 GB RAM
+Memory  | 2GB RAM
 Shipped Android Version | 5.1
-Storage | 16 GB
+Storage | 8GB
 Battery | 1800 mAh
 Display | 5" 1280 x 720 px
 Camera  | 8MPx + 13MPx, LED Flash
@@ -29,4 +29,3 @@ Camera  | 8MPx + 13MPx, LED Flash
  * @vo-1
  * SRT TEAM
  * and more more guys
-

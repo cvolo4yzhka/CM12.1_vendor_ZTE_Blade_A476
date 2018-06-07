@@ -218,6 +218,8 @@ PRODUCT_COPY_FILES += \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libcamdrv.so:system/lib/libcamdrv.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libcamdrv_FrmB.so:system/lib/libcamdrv_FrmB.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libcamera_client_mtk.so:system/lib/libcamera_client_mtk.so \
+    vendor/ZTE/Blade_A476/proprietary/system/lib/libcamera_client.so:system/lib/libcamera_client.so \
+    vendor/ZTE/Blade_A476/proprietary/system/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libcameracustom.so:system/lib/libcameracustom.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libccci_util.so:system/lib/libccci_util.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libcurl.so:system/lib/libcurl.so \
@@ -407,6 +409,8 @@ PRODUCT_COPY_FILES += \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libcamdrv.so:system/lib64/libcamdrv.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libcamdrv_FrmB.so:system/lib64/libcamdrv_FrmB.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libcamera_client_mtk.so:system/lib64/libcamera_client_mtk.so \
+    vendor/ZTE/Blade_A476/proprietary/system/lib64/libcamera_client.so:system/lib64/libcamera_client.so \
+    vendor/ZTE/Blade_A476/proprietary/system/lib64/libcamera_metadata.so:system/lib64/libcamera_metadata.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libcameracustom.so:system/lib64/libcameracustom.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libccci_util.so:system/lib64/libccci_util.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libcurl.so:system/lib64/libcurl.so \
@@ -515,7 +519,9 @@ PRODUCT_COPY_FILES += \
     vendor/ZTE/Blade_A476/proprietary/system/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/ZTE/Blade_A476/proprietary/system/vendor/lib/mediadrm/libmockdrmcryptoplugin.so:system/vendor/lib/mediadrm/libmockdrmcryptoplugin.so \
     vendor/ZTE/Blade_A476/proprietary/system/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
+    vendor/ZTE/Blade_A476/proprietary/system/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
     vendor/ZTE/Blade_A476/proprietary/system/vendor/lib64/mediadrm/libmockdrmcryptoplugin.so:system/vendor/lib64/mediadrm/libmockdrmcryptoplugin.so \
+    vendor/ZTE/Blade_A476/proprietary/system/vendor/lib64/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib64/mediadrm/libdrmclearkeyplugin.so \
     vendor/ZTE/Blade_A476/proprietary/system/xbin/BGW:system/xbin/BGW \
     vendor/ZTE/Blade_A476/proprietary/system/xbin/mnld:system/xbin/mnld \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libcam.device3.so:system/lib/libcam.device3.so \
