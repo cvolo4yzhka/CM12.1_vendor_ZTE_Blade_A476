@@ -218,7 +218,6 @@ PRODUCT_COPY_FILES += \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libcamdrv.so:system/lib/libcamdrv.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libcamdrv_FrmB.so:system/lib/libcamdrv_FrmB.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libcamera_client_mtk.so:system/lib/libcamera_client_mtk.so \
-    vendor/ZTE/Blade_A476/proprietary/system/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libcameracustom.so:system/lib/libcameracustom.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libccci_util.so:system/lib/libccci_util.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libcurl.so:system/lib/libcurl.so \
@@ -408,7 +407,6 @@ PRODUCT_COPY_FILES += \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libcamdrv.so:system/lib64/libcamdrv.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libcamdrv_FrmB.so:system/lib64/libcamdrv_FrmB.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libcamera_client_mtk.so:system/lib64/libcamera_client_mtk.so \
-    vendor/ZTE/Blade_A476/proprietary/system/lib64/libcamera_metadata.so:system/lib64/libcamera_metadata.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libcameracustom.so:system/lib64/libcameracustom.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libccci_util.so:system/lib64/libccci_util.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libcurl.so:system/lib64/libcurl.so \
