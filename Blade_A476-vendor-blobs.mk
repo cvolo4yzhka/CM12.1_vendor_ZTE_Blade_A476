@@ -249,7 +249,6 @@ PRODUCT_COPY_FILES += \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libfmmt6620.so:system/lib/libfmmt6620.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libfmmt6627.so:system/lib/libfmmt6627.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libfmmt6628.so:system/lib/libfmmt6628.so \
-    vendor/ZTE/Blade_A476/proprietary/system/lib/libfmmt6627.so:system/lib/libfmmt6627.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libged.so:system/lib/libged.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libgifEncoder_jni.so:system/lib/libgifEncoder_jni.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libgpu_aux.so:system/lib/libgpu_aux.so \
@@ -438,7 +437,6 @@ PRODUCT_COPY_FILES += \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libfmmt6620.so:system/lib64/libfmmt6620.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libfmmt6627.so:system/lib64/libfmmt6627.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libfmmt6628.so:system/lib64/libfmmt6628.so \
-    vendor/ZTE/Blade_A476/proprietary/system/lib64/libfmmt6627.so:system/lib64/libfmmt6627.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libged.so:system/lib64/libged.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libgpu_aux.so:system/lib64/libgpu_aux.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libgraphite2.so:system/lib64/libgraphite2.so \

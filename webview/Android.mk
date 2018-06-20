@@ -7,6 +7,10 @@ ZPATH := $(LOCAL_PATH)
 #include $(ZPATH)/libwebviewchromium_loader/Android.mk
 #include $(ZPATH)/libwebviewchromium_plat_support/Android.mk
 
+# Hack for copy lib file (in cm12.1 folder not exist, when make copy libs)
+$(shell mkdir -p $(TARGET_OUT)/lib)
+$(shell mkdir -p $(TARGET_OUT)/lib64)
+
 $(shell cp $(ZPATH)/arm/libwebviewchromium.so              $(TARGET_OUT)/lib)
 $(shell cp $(ZPATH)/arm/libwebviewchromium_loader.so       $(TARGET_OUT)/lib)
 $(shell cp $(ZPATH)/arm/libwebviewchromium_plat_support.so $(TARGET_OUT)/lib)
