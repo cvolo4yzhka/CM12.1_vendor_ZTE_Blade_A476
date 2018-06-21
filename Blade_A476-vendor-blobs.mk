@@ -558,8 +558,6 @@ PRODUCT_COPY_FILES += \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libSonyIMX230PdafLibrary.so:system/lib/libSonyIMX230PdafLibrary.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libSonyIMX230PdafLibrary.so:system/lib64/libSonyIMX230PdafLibrary.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libMtkOmxVorbisEnc.so:system/lib64/libMtkOmxVorbisEnc.so \
-    vendor/ZTE/Blade_A476/proprietary/system/lib/libjhead_jni.so:system/lib/libjhead_jni.so \
-    vendor/ZTE/Blade_A476/proprietary/system/lib64/libjhead_jni.so:system/lib64/libjhead_jni.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libvcodec_utility.so:system/lib64/libvcodec_utility.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
     vendor/ZTE/Blade_A476/proprietary/system/lib64/libcamera_metadata.so:system/lib64/libcamera_metadata.so \
